@@ -2,7 +2,6 @@
 ## Applied AI Systems and Governance: Technology, Policy, and Practice
 
 **Winter 2026** | Monday 14:00–16:00, Eastern Time Zone
-*(Make-up classes typically on Fridays 15:30–17:30)*
 
 **Instructor:** Jaxson Khan
 **Email:** jaxson.khan@utoronto.ca
